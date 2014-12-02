@@ -1,0 +1,60 @@
+Midterm2.txt
+14
+15
+Thu Oct 30 12:43:00 EDT 2014
+Midterm2_2.txt
+0
+1
+Tue Nov 04 19:58:52 EST 2014
+Midterm2_2.txt
+6
+6
+Tue Nov 04 20:05:42 EST 2014
+Midterm2_2.txt
+29
+40
+Tue Nov 04 20:40:01 EST 2014
+Midterm2_1.txt
+1
+1
+Tue Nov 04 22:50:48 EST 2014
+Midterm2_1.txt
+1
+3
+Tue Nov 04 22:51:04 EST 2014
+Midterm2_1.txt
+0
+2
+Tue Nov 04 22:51:09 EST 2014
+Midterm2_1.txt
+1
+2
+Tue Nov 04 22:51:13 EST 2014
+Midterm1.txt
+0
+2
+Tue Nov 04 22:56:14 EST 2014
+Midterm2_1.txt
+5
+6
+Tue Nov 04 22:59:22 EST 2014
+Midterm2_1.txt
+0
+1
+Tue Nov 04 23:00:34 EST 2014
+Midterm2_1.txt
+25
+37
+Tue Nov 04 23:36:40 EST 2014
+Midterm2_2.txt
+38
+40
+Wed Nov 05 11:08:53 EST 2014
+Midterm2_1.txt
+3
+12
+Wed Nov 05 11:15:05 EST 2014
+Midterm2_1.txt
+37
+40
+Wed Nov 05 11:20:56 EST 2014

@@ -1,0 +1,56 @@
+Which component of the COSO framework is concerned with the people of an entity and their overall competence? 
+Control activities. 
+Monitoring. 
+Information and communication. 
+Control environment. 
+D
+Control environment is referred to as the “tone at the top.” It is concerned with the people of an entity; their ethics, integrity, and competence; management’s philosophy and operating style; the participation of the BOD; the organizational structure and lines of authority; and human resource policies and practices, collectively contributing to the overall tone of the entity. The other answer choices are components of the COSO framework but are not the best answer. Control activities refer to the policies and procedures in place to ensure the entity’s objectives and risks are met and managed effectively. Monitoring refers to the ongoing assessment and remediation of the internal control system. Information and communication refers to the network of systems and processes in place that are relevant to the financial reporting objectives. 
+A bank is considering building a branch on a piece of property it already owns. Which of the following cash flows should NOT be considered in the capital budgeting analysis? The: 
+$50,000 the firm will forgo in lost revenue from the sale of the property if the company decides to build. 
+several hundred customers that will switch from alternative branches to the new branch if the bank makes the investment. 
+shipping and installation charges the bank must spend to get equipment in the new branch. 
+$100,000 spent to determine whether there are any environmental issues regarding the property. 
+D
+The $100,000 spent on an environmental analysis is a sunk cost and should not be considered in the analysis. The $50,000 lost from the sale of the property is an opportunity cost and should be considered. The transferred customers result in cash flows that are externalities/cannibalization for the bank and must be considered. Also, the shipping and installation charges are added to the depreciable basis and are counted. 
+Which of the following may be used to estimate how inventory warehouse costs are affected by both the number of shipments and the weight of materials handled? 
+Economic order quantity analysis. 
+Multiple regression analysis. 
+Probability analysis. 
+Correlation analysis. 
+B
+Regression analysis is a mathematical technique used to predict the value of one variable and its changes (the dependent variable) based upon the value of some other variable (the independent variable). Simple regression analysis involves the use of only one independent (explanatory) variable, while multiple regression analysis allows for more than one independent variable 
+The most likely strategy to reduce the breakeven point would be to: 
+Decrease the fixed costs and increase the contribution margin. 
+Increase the fixed costs and decrease the contribution margin. 
+Increase both the fixed costs and the contribution margin. 
+Decrease both the fixed costs and the contribution margin. 
+A
+Breakeven point represents your fixed costs divided by your contribution margin. Mathematically, by decreasing your numerator (fixed costs) or increasing your denominator (contribution margin), your breakeven point must decrease. 
+A disaster recovery plan usually has all of the following elements EXCEPT: 
+identifying users that would be affected. 
+identifying key personnel responsible for handling recovery operations. 
+identifying key applications. 
+documentation and training. 
+A
+Identifying users that would be affected is not part of a disaster recovery plan. All others are key elements of a disaster recovery plan. 
+When an operator enters customer account information, the system gives an error prompt that the city and zip code do not match. This is most likely due to what control? 
+Hash total. 
+Missing data check. 
+Combination check. 
+Control total. 
+C
+Combination check makes sure whether the input data makes sense. A hash total simply adds numeric fields (for example, zip code numbers, which would be useless in this case). A hash total may be helpful to add the number of sales made in a period and compare this with what was expected. A missing data check would not check to make sure the city and zip code match. It would simply prompt notification if a field was empty or incomplete. A control total would not check to make sure the city and zip codes match. A control total is a total done on a numeric field, for example, total customer payments. 
+If the Federal Reserve wanted to reduce the supply of money as part of an anti-inflation policy, it might: 
+buy U.S. securities on the open market. 
+buy U.S. securities directly from the Treasury. 
+lower the discount rate. 
+increase the reserve requirements. 
+D
+If the Fed increases reserve requirements banks will have less money to supply, and the multiplier effect will work to cause the overall supply of money to contract. The other ways the Fed might reduce the money supply would be to sell government securities on the open market or increase the discount rate. 
+The total market value of all final goods produced by the citizens of a country is called: 
+gross domestic product. 
+personal income. 
+gross national product. 
+disposable income. 
+C
+gross national product. Gross national product is the total market value of all final goods produced by the citizens of a country. Personal income is the total income received by individuals, and disposable income is personal income minus personal taxes. Gross domestic product is the total market value of all final goods produced within a country. 

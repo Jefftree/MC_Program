@@ -1,0 +1,56 @@
+A material loss should be presented separately as a component of income from continuing operations when it is: 
+An extraordinary item. 
+A cumulative effect type change in accounting principle. 
+Unusual in nature and infrequent in occurrence. 
+Not unusual in nature but infrequent in occurrence. 
+C
+A material loss that is either unusual in nature or infrequent in occurrence, but not both, would be reported as a separate component of income from continuing operations (“above the line”). Extraordinary items, which are unusual in nature and infrequent in occurrence, are reported as separate components of net income after income from continuing operations. A cumulative effect type change in accounting principle is no longer reported on the income statement (rather retrospective application is required when a company changes accounting principles). However, this is a material loss and without additional information would not be classified as such regardless. This distracter is trying to trick students with the use of an outdated concept. When a material item is either unusual in nature or infrequent in occurrence, but not both, it is reported as a separate component of income from continuing operations (“above the line”). 
+Leaf Co. purchased from Oak Co. a $20,000, 8%, 5-year note that required five equal annual year-end payments of $5,009. The note was discounted to yield a 9% rate to Leaf. At the date of purchase, Leaf recorded the note at its present value of $19,485. What should be the total interest revenue earned by Leaf over the life of this note? 
+$5,045 
+$5,560 
+$8,000 
+$9,000 
+B
+Leaf will receive a total of 5 payments of $5,009 each, or $25,045 for the note. Since the amount paid for the note was $19,485 but the payments received equal $25,045, the difference of $5,560 would be recognized as interest income over the term of the note. 
+A lease will be classified as a capital lease if: 
+a bargain purchase option exists. 
+the lease period is less than 75% of the asset's life. 
+the title is not transferred to the lessee at the end of the lease period. 
+the present value of the lease payments exceeds 80% of the fair value of the leased property to the lessor. 
+A
+The lease would be classified as a capital lease if it meets just one of the following criteria: 1) A bargain purchase option exists. 2) The lease period is at least 75% of asset’s life. 3) The title is transferred to the lessee at the end of the lease period. 4) The present value of the lease payments are equal to or exceed 90% of the fair value of the leased property to the lessor. 
+Lore Co. changed from the cash basis of accounting to the accrual basis of accounting during Year 1. The effect of this change should be reported in Lore's Year 1 financial statements as a: 
+Prior period adjustment resulting from the correction of an error. 
+Prior period adjustment resulting from the change in accounting principle. 
+Component of income before extraordinary item. 
+Component of income after extraordinary item. 
+B
+An error includes a mathematical mistake, mistakes in the application of U.S. GAAP, or the oversight/misuse of facts that existed at the time the statements were prepared. Changing from an accounting principle that is not U.S. GAAP to one that is U.S. GAAP is an example of a correction of an error. Accounting errors should be treated as a prior period adjustment with a restatement of prior periods being presented. A change in accounting principle is a change from one U.S. GAAP accounting principle to another U.S. GAAP accounting principle. Retrospective application must be applied to such changes. An accounting error requires the restatement of periods being presented with the corrected error. Therefore, there is no need or requirement that the error be reported as a component of income before or after extraordinary items. 
+Which of the following information should be disclosed in the summary of significant accounting policies? 
+Refinancing of debt subsequent to the balance sheet date. 
+Guarantees of indebtedness of others. 
+Criteria for determining which investments are treated as cash equivalents. 
+Adequacy of pension plan assets relative to vested benefits. 
+C
+All of the items indicated as possible answers to this question would be disclosed, along with the financial statements, in the notes to the financial statements. The question is asking what information would appear in the summary of significant accounting policies. The summary of significant accounting policies must include: 1: Accounting principles followed and the methods of applying those principles. 2: Accounting principles involving a selection from acceptable alternatives. 3: Principles peculiar to a particular industry. 4: Unusual or innovative applications of accounting principles. The disclosure related to significant accounting policies is intended to indicate the choices the company made in selecting the accounting principles applied in the preparation of the financial statements. This would include the criteria used when deciding which investments are to be treated as cash equivalents. 
+Which fund may account for a university's internally designated fund, the income from which will be used for a specified purpose? 
+Endowment fund 
+Term endowment fund 
+Quasi-endowment fund 
+Restricted current fund 
+C
+Quasi-endowment funds are funds set aside by the organization’s governing board (internally designated) to be used for a specific purpose. Quasi-endowment funds are classified as unrestricted net assets. “Regular” endowment funds are funds donated or transferred to the university by an external party with restrictions placed on the principal while the earnings may be spendable or non-spendable. Endowment funds are classified as permanently restricted. Term endowment funds are funds donated or transferred to the university by an external party that are restricted until the passage of time or a certain even occurs, after which, the amount can be spent in full. Term endowment funds are classified as temporarily restricted net assets. Restricted current funds are current funds that are restricted by an external party. An endowment fund is a type of restricted fund. 
+Briar Co. signed a government construction contract providing for a formula price of actual cost plus 10 percent. In addition, Briar was to receive one-half of any savings resulting from the formula price being less than the target price of $2,200,000. Briar's actual costs incurred were $1,920,000. How much should Briar receive from the contract? 
+$2,060,000 
+$2,112,000 
+$2,156,000 
+$2,200,000 
+C
+Briar receives its actual costs of $1,920,000 plus a 10 percent markup, $192,000, for a total of $2,112,000. Since this is $88,000 less than the target price of $2,200,000, Briar will receive one-half, or an additional $44,000. As a result, the total received by Briar is $2,156,000. 
+General capital assets donated to a governmental unit should be recorded: 
+at estimated fair value when received. 
+at the lower of donor's carrying amount or estimated fair value when received. 
+at the donor's carrying amount. 
+as a memorandum entry only. 
+A
+General capital assets donated to a governmental unit are reported at the estimated fair value when received. Capital assets acquired are normally reported at historical cost and depreciated over their estimated useful life unless they are inexhaustible (e.g., land) or are infrastructure assets (e.g., streets) using the modified approach, in which case depreciation is not recognized. 

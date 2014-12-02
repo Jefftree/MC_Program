@@ -1,0 +1,56 @@
+Which of the following circumstances most likely would cause an auditor to consider whether material misstatements exist in an entity's financial statements? 
+Supporting records that should be readily available are frequently not produced when requested. 
+Reportable conditions previously communicated have not been corrected. 
+Clerical errors are listed on a monthly computer-generated exception report. 
+Differences are discovered during the client's annual physical inventory count. 
+A
+Supporting records which should be readily available but are not should arouse suspicion. Reportable conditions previously reported may not have been corrected due to legitimate factors such as cost-benefit concerns or insufficient time since the condition was reported. Clerical errors which come to light through the client's system serve to help correct potential misstatements. Some differences are commonly discovered during a physical inventory count due, for example, to the volume of items which typically must be counted. 
+An auditor is testing internal control procedures that are evidenced on an entity's vouchers by matching random numbers with voucher numbers. If a random number matches the number of a voided voucher, that voucher ordinarily should be replaced by another voucher in the random sample if the voucher: 
+Constitutes an exception. 
+Has been properly voided. 
+Cannot be located. 
+Represents an immaterial dollar amount. 
+B
+In a random sample, the auditor may replace randomly selected items which are inappropriate to examine, such as voided documents, so long as the documents appear not to contain any deviations from control policies and procedures. The auditor should treat as exceptions documents that contain deviations, those that may not have been properly voided, and those that cannot be located. In testing internal control the dollar size of an item in a sample is irrelevant. 
+In evaluating the reasonableness of an accounting estimate, an auditor most likely would concentrate on key factors and assumptions that are: 
+Consistent with prior periods. 
+Similar to industry guidelines. 
+Objective and not susceptible to bias. 
+Deviations from historical patterns. 
+D
+When evaluating the reasonableness of an accounting estimate, the auditor should concentrate on any factors or assumptions that deviate from historical patterns. Deviations from historical patterns may represent situations where management is attempting to influence the financial statements through changing estimates. Any factors or assumptions that are consistent with prior periods, similar to industry guidelines, or objective and not susceptible to bias do not indicate potential concerns to the auditor. 
+An auditor may achieve audit objectives related to particular assertions by: 
+Performing analytical procedures. 
+Adhering to a system of quality control. 
+Preparing auditor working papers. 
+Increasing the level of detection risk. 
+A
+Auditors develop particular audit objectives to test specific management assertions. The goal of the auditor is to satisfy these audit objectives by the completion of evidence gathering procedures. The evidence gathering procedures are substantive tests. Analytical procedures are the only substantive tests identified among the available responses. 
+Which of the following computer-assisted auditing techniques allows fictitious and real transactions to be processed together without client-operating personnel being aware of the testing process? 
+Integrated test facility. 
+Input controls matrix. 
+Parallel simulation. 
+Data entry monitor. 
+A
+An integrated test facility combines fictitious transactions and real transactions to examine the client's processing of transactions. A parallel simulation also examines the processing of transactions, but does not involve client personnel since a program created by the auditor is used. An input controls matrix and data entry monitor are input controls, not computer-assisted audit techniques. 
+An auditor should design the written audit plan so that 
+All material transactions will be selected for substantive testing. 
+Substantive tests prior to the balance sheet date will be minimized. 
+Each account balance will be tested under either tests of controls or tests of transactions. 
+The audit procedures selected will achieve specific audit objectives. 
+D
+An auditor should prepare a written audit plan because the overall goal of the audit is to gather sufficient appropriate evidence to reduce the risk of material misstatement to an acceptably low level. Although the form and extent of detail will vary, the audit program should set forth the audit procedures that the auditor believes are necessary to accomplish the objectives of the audit. All material transactions need not be selected for testing. Items selected for testing are dependent on risk of material misstatement. The objective of a written audit plan is not to minimize substantive tests prior to the balance sheet date, although timing is a consideration in the planning of certain activities and audit procedures. A majority of testing is completed before the balance sheet date. Each account balance need not be tested as this would likely be an inefficient and ineffective audit plan. 
+A successor auditor most likely would make specific inquiries of the predecessor auditor regarding 
+The competency of the client's internal audit staff. 
+Specialized accounting principles of the client's industry. 
+Disagreements with management as to auditing procedures. 
+The uncertainty inherent in applying sampling procedures. 
+C
+A successor auditor is required to make inquiries of the predecessor auditor regarding matters that the successor auditor believes will assist in determining whether or not to accept a new audit engagement. The inquiries, which focus on the integrity of management and the reasons for the change in auditors, should include specific questions regarding disagreements with management as to accounting principles, auditing procedures, and/or other similarly significant matters. The other answer choices are the responsibility of the successor auditor and are not inquiries to be made with the predecessor auditor. 
+Which of the following statements is correct with respect to audits of U.S. issuers? 
+Audits of issuers must be conducted under SAS issued by the ASB. 
+Audits of issuers must be conducted under AS issued by the PCAOB. 
+Audits of issuers must be conducted under ISA issued by the PCAOB. 
+Audits of issuers may now be conducted under any set of nationally recognized audit standards. 
+B
+Audits of issuers must be conducted under AS issued by the PCAOB. The other answer choices are false statements alone. Note: Audits of non-issuers must be conducted under SAS issued by the ASB. 

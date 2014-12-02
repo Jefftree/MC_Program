@@ -1,0 +1,11 @@
+http://jying.ca/proj/mc/
+version=3.0
+shuffle=0
+collate=1
+sound=1
+time=40
+updater=1
+cow=moo
+resources=1
+
+WARNING! Modifying this file may cause the program to stop functioning.

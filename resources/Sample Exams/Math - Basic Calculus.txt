@@ -1,0 +1,70 @@
+What’s the limit of 1/x as x approaches infinity?
+0
+1
+-1
+Limit does not exist
+D
+No explanation.
+What is the derivative of sin(x)?
+tan(x)
+cos(x)
+sec(x)
+1
+B
+No explanation.
+What is the derivative of cos(x)?
+sin(x)
+-sin(x)
+cos(x)
+e^x
+B
+No explanation.
+What is the derivative of tan(x)?
+sin(x)
+cos(x)
+sec^2(x)
+42
+C
+No explanation.
+What is the value of 4! + 4! + 5! ?
+13!
+13
+15 X 24
+24 + 24 + 100
+C
+No explanation.
+If ln(ln(x)) = 1, then x = ?
+e
+e+1
+e^2
+e^e
+D
+No explanation.
+What is the derivative of sin(sin(x))?
+cos(sin(x))
+cos(cos(x))
+cos(sin(x))
+cos(sin(x))cos(x)
+D
+No explanation.
+If f(x) is a continuous function, then it is differentiable:
+Always true
+Always false
+Sometimes true
+Only if f(x) is constant
+C
+No explanation.
+If g(x) is a differentiable function, then it is continuous:
+Always true
+Always false
+Sometimes true
+Only if g(x) has no x intercept
+A
+No explanation.
+What are the solutions to (x-3)(x+1)(x^2-4) = 0?
+0, 1, 2, 4
+3, 1, 2
+3, 1, 4
+-2, -1, 2, 3
+D
+No explanation.

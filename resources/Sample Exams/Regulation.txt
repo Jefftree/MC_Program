@@ -1,0 +1,54 @@
+A tax return preparer is subject to a penalty for knowingly or recklessly disclosing corporate tax return information, if the disclosure is made 
+To enable a third party to solicit business from the taxpayer. 
+To enable the tax processor to electronically compute the taxpayer's liability. 
+For peer review. 
+Under an administrative order by a state agency that registers tax return preparers. 
+A
+A tax return preparer may not disclose or use tax return information without the taxpayer's consent except pursuant to a court or administrative order, in connection with the preparation of the tax return, or to be evaluated for quality or peer review. The preparer may not disclose tax return information to enable a third party to solicit business from the taxpayer. 
+In Year 1, Cape Company recorded book income of $140,000. Included in that amount was $50,000 for meal and entertainment expenses and $40,000 for federal income tax expenses. In Cape's schedule M-1 of Form 1120, which reconciles book income and taxable income, what amount should be reported as taxable income? 
+$205,000 
+$190,000 
+$180,000 
+$140,000 
+A
+A corporation may not deduct federal income taxes for federal tax purposes. In addition, only 50 percent of meals and entertainment may be deducted. As a result, Cape will add back the $140,000 book income federal tax of $40,000 and 50 percent of the meals and entertainment, or $25,000, resulting in taxable income of $205,000. 
+Peters Co. repairs computers. On February 9, Year 1, Stark Electronics Corp. sold Peters a circuit tester on credit. Peters executed an installment note for the purchase price, a security agreement covering the tester, and a financing statement that Stark filed on February 11, Year 1. On April 13, Year 1, creditors other than Stark filed an involuntary petition in bankruptcy against Peters. What is Stark's status in Peters' bankruptcy? 
+Stark will be treated as an unsecured creditor because Stark did not join in the filing against Peters. 
+Stark's security interest constitutes a voidable preference because the financing statement was not filed until February 11. 
+Stark's security interest constitutes a voidable preference because the financing statement was filed within ninety days before the bankruptcy proceeding was filed. 
+Stark is a secured creditor and can assert a claim to the circuit tester that will be superior to the claims of Peters' other creditors. 
+D
+By filing a financing statement within ten days of obtaining a purchase money security interest (PMSI), Stark has perfected a secured interest in the circuit tester that is superior to all other claims. Whether a creditor is secured or unsecured has nothing to do with that creditor's participation in a bankruptcy filing. The security agreement and subsequent filing were all a part of a contemporaneous exchange, so the filing is not considered an attempt to gain a preference on an antecedent debt, and is not a voidable preference. 
+Which of the following best describes the effect of the assignment of an interest in a general partnership? 
+The assignee becomes a partner. 
+The assignee is responsible for a proportionate share of past and future partnership debts. 
+The assignment automatically dissolves the partnership. 
+The assignment transfers the assignor's interest in partnership profits and surplus. 
+D
+A partner may sell or assign his or her interest in the partnership without dissolving the partnership. The assignee does not become a partner, does not have the right to participate in management, and does not have the right to inspect partnership books or records 
+On December 15, Blake Corp. telephoned Reach Consultants, Inc. and offered to hire Reach to design a security system for Blake's research department. The work would require two years to complete. Blake offered to pay a fee of $100,000 but stipulated that the offer must be stated in writing and an acceptance received by Blake no later than December 20. On December 20, Reach faxed a written acceptance to Blake. Blake's offices were closed on December 20, and Reach's fax was not seen until December 21. Reach's acceptance contained the following language: "We accept your $1,000,000 offer. Weaver has been assigned $5,000 of the fee as payment for sums owed Weaver by Reach. Payment of this amount should be made directly to Weaver. On December 22, Blake sent a signed memo to Reach rejecting Reach's December 20 fax but offering to hire Reach for a $75,000 fee. Reach telephoned Blake on December 23 and orally accepted Blake's December 22 offer. Blake's December 15 offer had to be in writing to be a legitimate offer. 
+True 
+False 
+B
+Blake's oral offer of December 15 was a legitimate offer. Offers need not be written to be legitimate. 
+The profession's ethical standards most likely would be considered to have been violated when a CPA represents that specific consulting services will be performed for a stated fee, and it is apparent at the time of the representation that: 
+actual fee would be substantially higher. 
+actual fee would be substantially lower than the fees charged by other CPAs for comparable services. 
+CPA would not be independent. 
+fee was a competitive bid. 
+A
+Stating a particular fee for specific consulting services would violate the profession's ethical standards if it was apparent to the CPA consultant that the actual fee would be much higher. Independence is not required when performing consulting services. 
+Which of the following will not be discharged in a bankruptcy proceeding? 
+Claims resulting out of an extension of credit based upon false representations. 
+Claims of secured creditors which remain unsatisfied after their receipt of the proceeds from the disposition of the collateral. 
+Claims for unintentional torts which resulted in bodily injury to the claimant. 
+Claims arising out of breach of a contract by the debtor. 
+A
+There are many exceptions to discharge, including claims from credit obtained in a fraudulent manner. The other choices in the problem are not among the exceptions in the law and would only receive a distributive part of the bankrupt party’s assets in accordance with the court order of distribution. The claims remaining unpaid after all assets are distributed are discharged. 
+For regular tax purposes, with regard to the itemized deduction for qualified residence interest, home equity indebtedness incurred this year 
+Includes acquisition indebtedness secured by a qualified residence. 
+May exceed the fair market value of the residence. 
+Must exceed the taxpayer's net equity in the residence. 
+Is limited to $100,000 on a joint income tax return. 
+D
+Home equity indebtedness is limited to $100,000 on a joint return. Home equity indebtedness is any non-acquisition debt that is secured by a qualified residence. It may not exceed the fair market value of the house less the acquisition indebtedness or the $100,000, whichever is less. Acquisition indebtedness, on the other hand, is debt incurred in acquiring, constructing, or substantially improving a qualified residence and is secured by such residence (limit is $1 million). Note: Any interest attributed to debt over these limits may not be deducted. 
