@@ -17,7 +17,9 @@ Running Updater.jar will automatically update the program to its latest version.
 - Instant feedback: option to receive feedback immediately after a question, or after entire exam is completed.
 - Saves score history to track improvement
 - Importing multiple choice exams from PDF or Word file
+- Bind letters to keyboard shortcuts
 - Customized sounds for a correct/incorrect answer
+- Shuffling questions
 - Automatically updates to latest version
 
 ### Disabled features
